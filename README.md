@@ -1,4 +1,4 @@
-## About
+## About. this is modified by sandra Yang on 20171117
 Spring Boot Just-Gif-It Auto Configuration Module
 
 ## Provides
